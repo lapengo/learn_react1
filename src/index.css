@@ -1,0 +1,15 @@
+body{
+  background-color: ghostwhite;
+}
+
+.product{
+  background-color: khaki;
+  margin: 30px;
+  padding:20px;
+}
+
+.minstock{
+  color: aliceblue;
+  font-weight: bolder;
+  background: #666;
+}
